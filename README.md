@@ -19,13 +19,17 @@ Fonts: Geist
 Optional Tools: Framer Motion (for animations)
 
 ## 🚀 Getting Started
-``Installation
+# Installation
 
-git clone (https://github.com/Shubhamtribhuvan8/supreme-group.git)
-cd supreme-group
-npm install
-npm run dev``
-Visit http://localhost:3000 to view the application.
+```git clone https://github.com/Shubhamtribhuvan8/supreme-group.git```
+
+  ```cd supreme-group```
+
+```npm install```
+
+```npm run dev```
+
+# Visit http://localhost:3000 to view the application.
 
 
 
